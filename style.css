@@ -1,0 +1,14 @@
+.foto {
+    color: white;
+    background: black;
+    background-image: url("button.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    border: 2px solid wait;
+    margin: 650px;
+    margin bottom: 50%;
+    margin top: 50%;
+    border-radius: 12px;
+  }
